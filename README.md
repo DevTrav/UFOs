@@ -10,7 +10,7 @@ Build a filterable, dynamic table with data that is stored as a JavaScript array
 
 ## Results
 
-The [UFO Sightings webpage]() was deployed and accessible
+The [UFO Sightings webpage](https://devtrav.github.io/UFOs/) was deployed and accessible
 
 ![website](static/images/website_image.png)
 
